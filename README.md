@@ -9,11 +9,11 @@ AGI
 </head> 
 <body>
 
-1° - DataCenters
-2º - RAID
-3° - Dados Randomicos
-4° - GeraArquivos BKP
-5° - Replicador
+1° - DataCenters <br>
+2º - RAID <br>
+3° - Dados Randomicos <br>
+4° - GeraArquivos BKP <br>
+5° - Replicador <br>
 
 </body> 
 </html>
