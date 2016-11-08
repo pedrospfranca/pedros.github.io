@@ -1,2 +1,2 @@
-# http://pedrospfranca.github.io/pedros.github.io
+# http://pedros.github.io
 AGI
