@@ -1,2 +1,19 @@
 # http://pedros.github.io
 AGI
+
+<html> 
+<head> 
+<title>FATEC - FRANCA</title>
+<meta name="Trabalhos realizados na disciplina de AGI" content="Breve descrição da sua página">
+<meta name="keywords" content="Palavras chave da sua página">
+</head> 
+<body>
+
+1° - DataCenters
+2º - RAID
+3° - Dados Randomicos
+4° - GeraArquivos BKP
+5° - Replicador
+
+</body> 
+</html>
